@@ -8,8 +8,7 @@ A passionate for DATA and AI technology from India.
       projects.
 📫 How to reach me: mail > vaibhavrokde232@gmail.com
 
-
-<img align='left' alt='coding width="400", src="![image](https://user-images.githubusercontent.com/90153305/200659894-d88b0c06-4141-4e6a-96b4-78d681912f01.png)">
+![image](https://user-images.githubusercontent.com/90153305/200659894-d88b0c06-4141-4e6a-96b4-78d681912f01.png)
 
 <!--
 **vaibhav-rokde/vaibhav-rokde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
