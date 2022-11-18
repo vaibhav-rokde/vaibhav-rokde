@@ -37,7 +37,7 @@ I'm a Python Developer and Data Science enthusiast...
 #### predictive modeling⚖️
 #### Web-GUI design 📱🖥️💻
 #### Deployment on cloud ☁️
-## I Follow Time Matrix in daily routine ⏳⏰⌛
+## I follow "Time Matrix" in my daily routine ⏳⏰⌛
 
 
 
