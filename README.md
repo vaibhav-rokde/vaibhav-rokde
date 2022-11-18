@@ -28,13 +28,16 @@ I'm a Python Developer and Data Science enthusiast...
 
 
 ## 🛠 Skills
-### Python, HTML, CSS...
-####Web-scraping
-####Dataset building
-####Database administration
-####Data analysis
-####predictive modeling
-####Web-GUI design 
+### Python, HTML, CSS..
+### Pycharm, VScode, Jupyter notebook, Google Colob.
+####Web-scraping📝🪚📌
+####Dataset building📂
+####Database administration🗂️📤📥
+####Data analysis📊📉📈🔎
+####predictive modeling⚖️
+####Web-GUI design 📱🖥️💻
+####Deployment on cloud ☁️
+####Follow Time matrix in daily routine ⏳⏰⌛
 
 
 
