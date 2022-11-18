@@ -13,7 +13,7 @@ I'm a Python Developer and Data Science enthusiast...
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavrokde)
 
 
-## Other Common Github Profile Sections
+## About me 
 👩‍💻 I'm currently working on some cool and problem solving project.
 
 🧠 I'm currently learning full stack data scientist skills.
@@ -30,14 +30,14 @@ I'm a Python Developer and Data Science enthusiast...
 ## 🛠 Skills
 ### Python, HTML, CSS..
 ### Pycharm, VScode, Jupyter notebook, Google Colob.
-####Web-scraping📝🪚📌
-####Dataset building📂
-####Database administration🗂️📤📥
-####Data analysis📊📉📈🔎
-####predictive modeling⚖️
-####Web-GUI design 📱🖥️💻
-####Deployment on cloud ☁️
-####Follow Time matrix in daily routine ⏳⏰⌛
+#### Web-scraping📝🪚📌
+#### Dataset building📂
+#### Database administration🗂️📤📥
+#### Data analysis📊📉📈🔎
+#### predictive modeling⚖️
+#### Web-GUI design 📱🖥️💻
+#### Deployment on cloud ☁️
+## I Follow Time Matrix in daily routine ⏳⏰⌛
 
 
 
