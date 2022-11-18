@@ -1,26 +1,44 @@
-### Hi 👋, I'm  Vaibhav Rokde.
 
-A passionate for DATA and AI technology from India.
+# Hi, I am Vaibhav! 👋
 
-🔭 I’m currently working on cool projects.
-🌱 Exploring Statistics, NLP, CV , AI-audio and Big Data 
-      meanwhile learning and implementing it in the real time 
-      projects.
-📫 How to reach me: mail > vaibhavrokde232@gmail.com
+
+## 🚀 About Me
+I'm a Python Developer and Data Science enthusiast...
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://vaibhav-rokde-portfolio.herokuapp.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavrokde)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on some cool and problem solving project.
+
+🧠 I'm currently learning full stack data scientist skills.
+
+👯‍♀️ I'm looking to collaborate on imaginary project into reality.
+
+💬 Ask me about Python and Data Science related stuffs.
+
+📫 You cannect me through LinkedIn 
+
+⚡️ Fun fact I spend my college life like diploma and Btech. in ECT but highly attached towards Data science so, I always compare electronics circuit and logics with data science concept and literally I got multiple similarities....
+
+
+## 🛠 Skills
+### Python, HTML, CSS...
+####Web-scraping
+####Dataset building
+####Database administration
+####Data analysis
+####predictive modeling
+####Web-GUI design 
+
+
+
 
 ![image](https://user-images.githubusercontent.com/90153305/200659894-d88b0c06-4141-4e6a-96b4-78d681912f01.png)
 
-<!--
-**vaibhav-rokde/vaibhav-rokde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-🔭 I’m currently working on cool projects.
-🌱  Exploring Statistics, NLP, CV , AI-audio and Big Data meanwhile learning and implementing it in the real time projects.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
