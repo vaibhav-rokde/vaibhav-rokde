@@ -34,7 +34,7 @@ I'm a Python Developer and Data Science enthusiast...
 #### Dataset building📂
 #### Database administration🗂️📤📥
 #### Data analysis📊📉📈🔎
-#### predictive modeling⚖️
+#### Predictive modeling⚖️
 #### Web-GUI design 📱🖥️💻
 #### Deployment on cloud ☁️
 
