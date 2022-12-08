@@ -47,7 +47,7 @@ I am a Python Developer and Data Science enthusiast.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-rokde)  
 
 
-## I follow "Time Matrix" in my daily routine ⏳⏰⌛
+## I follow "Time matrix" in my daily routine ⏳⏰⌛
 
 
 
