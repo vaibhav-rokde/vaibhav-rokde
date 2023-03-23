@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a Python Developer and Data Science enthusiast.
+I am a Software Developer and AI enthusiast.
 
 
 
