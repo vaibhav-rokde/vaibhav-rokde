@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am a Software Developer and AI enthusiast.
+I am a Data analyst, Software Developer and AI enthusiast.
 
 
 
