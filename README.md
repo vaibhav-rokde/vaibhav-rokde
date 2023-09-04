@@ -35,7 +35,7 @@ I am a Data analyst, Python Developer and AI enthusiast.
 #### Predictive modeling⚖️
 #### Web-GUI design 📱🖥️💻
 #### Deployment on cloud ☁️
-####AWS
+#### AWS
 
 ## 🛠 Tools
 ### Pycharm, VScode, Jupyter notebook, Google Colob.
