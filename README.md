@@ -3,8 +3,7 @@
 ## Full Stack AI Developer
 
 
-## 🚀 About Me
-I am a Data analyst, Python Developer and AI enthusiast.
+
 
 
 
